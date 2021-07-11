@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "894273432394",
+    "project_id": "pigeon-f7110",
+    "storage_bucket": "pigeon-f7110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894273432394:android:5d2d35d9c07f8ef66dafb3",
+        "android_client_info": {
+          "package_name": "com.akilbhuiyan.Pigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894273432394-9sk9lomj9fsehu242r175mgutpid3osp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDovsf9TAzUUM2pGZzrjkbL7qhO2ZQJnxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894273432394-9sk9lomj9fsehu242r175mgutpid3osp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894273432394-0los3hpuhkjd43oe9687n4aclga8aenh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akilbhuiyan.Pigeon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
